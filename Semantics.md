@@ -5,7 +5,12 @@
 Semantic roles denote the function of a word in a sentence. They are also called thematic roles.
 
 ### Antonymy
-Antonyms are words with two forms of opposite meanings for example: alive / dead or fast / slow.
+Antonyms are words with two forms of opposite meanings for example: alive / dead or fast / slow. Antonyms can be divided into two types: 
+
+-	Gradable as for example big / small, which can be used in comparative constructions. Negation of the one world is not equal with the meaning of the other one.
+-	Non-gradable (complementary pairs) as for example dead / alive. The negation of non-gradable antonym is equal to the meaning of the opposite word in pair.
+
+Another group of antonyms are reversive antonyms. These are pairs as dress / undress, they can be treated as opposite words. However, as the author emphasises the word “undress” does not mean “not dress” but “do the reverse of dress”.
 
 ### Homophones and homonyms
 
@@ -34,3 +39,4 @@ Many examples of **metonymy** are used often in everyday life and are easy to in
 **Collocation** regards the knowledge of which words occur with other words. Yule gives and example of *hammer* and *nail*, as one is almost always associated with the other. **Collocation** is a way in which our knowledge is organized, based on words occurring together. The topic of **collocation** has been explored further in the field of corpus linguistics. 
 
 A **corpus** is a large collection of texts, spoken or written, typically stored as a database in a computer. Those doing corpus linguistics can then use the database to find out how often specific words or phrases occur and what types of **collocations** are most common. 
+
