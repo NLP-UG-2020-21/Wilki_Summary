@@ -7,12 +7,12 @@
 There are two kinds of meanings worth mentioning: **conceptual** meaning (covers those basic, essential components of meaning, so the most basic association) and **associative** (further associations). 
 
 
-### ***Semantic features***
-**Semantic features** are the features of words and their presence (+) or absence (-). We create semantic features ourselves, depending on the needs.
-
-
 ### ***Semantic roles***
-Semantic roles denote the function of a word in a sentence. They are also called thematic roles.
+**Semantic roles** (also called **thematic roles**) denote the function of a word in a sentence. 
+
+
+### ***Agent and theme***
+The most common roles are agents and themes. **Agents** denote entities performing an action while **themes** (called as well **patients**) are entities which are involved in or affected by the action. They can be also the described entities, i.e. entities not performing an action.
 
 
 ### ***Antonymy***
