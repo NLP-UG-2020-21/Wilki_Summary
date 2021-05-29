@@ -7,12 +7,12 @@
 There are two kinds of meanings worth mentioning: **conceptual** meaning (covers those basic, essential components of meaning, so the most basic association) and **associative** (further associations). 
 
 
-### ***Semantic features***
-**Semantic features** are the features of words and their presence (+) or absence (-). We create semantic features ourselves, depending on the needs.
-
-
 ### ***Semantic roles***
-Semantic roles denote the function of a word in a sentence. They are also called thematic roles.
+**Semantic roles** (also called **thematic roles**) denote the function of a word in a sentence. 
+
+
+### ***Agent and theme***
+The most common roles are agents and themes. **Agents** denote entities performing an action while **themes** (called as well **patients**) are entities which are involved in or affected by the action. They can be also the described entities, i.e. entities not performing an action.
 
 
 ### ***Antonymy***
@@ -89,3 +89,22 @@ Participants of conversation can indicate their willingness to speak by:
 According to the research, there are different strategies of participation in the conversation and different expectations of its style. Some of these styles might be understood as a rudeness or shyness by other participants, which is a result of different conventions of **turn-taking**.
 One of typical strategies is avoiding completion points. Speakers use this in situations when they try to talk and figure out the context of their speech at the same time. As a method to avoid completion points speakers do not make pauses at the end of sentences and use different connectors like *and*, *and then*, *so*, *but*. Trying to fill the silence markers as *er*, *em*, *uh*, *ah* or *you know* are used. 
 The author emphasizes that these methods should not be considered as undesirable or domineering. Filled pauses occur in most of conversations and they are an important part of it used to organize speakers turns.
+### ***The cooperative principle***
+
+The **cooperative principle** was first described by the philosopher Paul Grice and is based on the assumption that in the majority of conversations the participants cooperate with one another. Though it is not applied in every conversational exchange it helps to explain regular features present in the majority of conversations. The co-operative principle is supported by four **maxims** (also known as **Gricean maxims*):
+- The **quantity maxim**: *Make your contribution as informative as required, but not more, or less than is required.*
+- The **quality maxim**: *Do not say that which you believe to be false or for which you lack adequate evidence.*
+- The **relation maxim**: *Be relevant.*
+- The **manner maxim**: *Be clear, brief, and orderly.*
+
+### ***Hedges***
+**Hedges** are words or phrases which indicate our lack of certainty regarding what we are saying, whether our statement is complete or that our enunciation denotes an opinion. We use them while being co-operative participants to point to our concern about four maxims.
+
+### ***Implicature***
+An **implicature** is a piece of information conveying an additional conveyed meanining. We decide whether a conversation contains an implicature based on the co-operative principle and the maxims and as well by appealing to our background knowledge. 
+
+### ***Background knowledge***
+Pieces of information not directly stated in the text are called **interferences**. They are derived from our conventional knowledge and expectations about a text and treated as likely or possible interpretations of a text which will be abandoned if they do not fit with the information to follow.
+
+### ***Schemas and scripts***
+Conventional knowledge structures which exist in our memory containing a set of typical features are called **schemas**. **Scripts** are series of conventional actions taking place. Schemas and scripts confirm that our understanding does not come directly from words and sentences but as well the interpretations as crucial information can be ommited on the assumption of the knowledge of the scripts by conversational partners. 
