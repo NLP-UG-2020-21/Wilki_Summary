@@ -14,7 +14,7 @@ There are two kinds of meanings worth mentioning: **conceptual** meaning (covers
 ### ***Agent and theme***
 The most common roles are agents and themes. **Agents** denote entities performing an action while **themes** (called as well **patients**) are entities which are involved in or affected by the action. They can be also the described entities, i.e. entities not performing an action.
 
-### ***Instrument and experiencer***
+## ***Instrument and experiencer***
 **Instruments** are entities used by the agent to perform an action. If we do not perform an action but are experiencing feelings, perceptions or states, we are called **experiencers**.
 
 ### ***Location, source and goal***
@@ -29,7 +29,6 @@ These 'relationships' are called **lexical relations** and are used in the seman
 
 ### ***Synonymy***
 When two or more words have meanings which are closely related they are called **synonyms**. The words might not be interchangeable in all context and their usage might differ depending on the register.
-
 
 ### ***Antonymy***
 
